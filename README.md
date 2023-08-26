@@ -1,4 +1,4 @@
-# IFMIS-Home-Page
+# IFMIS-Home-Page Govt of Telangana
 
 - The link to the original site 
          https://ifmis.telangana.gov.in/login?forced
